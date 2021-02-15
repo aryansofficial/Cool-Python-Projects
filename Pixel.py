@@ -1,3 +1,4 @@
+# this will show the pixel color where mouse is hovered
 from pyautogui import position
 from pyautogui import screenshot
 from time import sleep
